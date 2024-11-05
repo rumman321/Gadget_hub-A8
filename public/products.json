@@ -1,0 +1,194 @@
+[
+    {
+      "product_id": 1,
+      "product_title": "MacBook Pro 14",
+      "product_image": "https://i.ibb.co.com/QdhhwfZ/mac14.jpg",
+      "category": "macbook",
+      "price": 1999,
+      "description": "Powerful performance for professionals.",
+      "specification": [
+        "14-inch Liquid Retina XDR display",
+        "M2 Pro chip",
+        "16-core GPU",
+        "Up to 32GB unified memory"
+      ],
+      "availability": true,
+      "rating": 4.9
+    },
+    {
+      "product_id": 2,
+      "product_title": "Dell XPS 13",
+      "product_image": "https://i.ibb.co.com/C2xgznd/dell13.jpg",
+      "category": "laptop",
+      "price": 1299,
+      "description": "The world's most beautiful laptop.",
+      "specification": [
+        "13.4-inch InfinityEdge display",
+        "12th Gen Intel Core processor",
+        "Up to 32GB LPDDR5 RAM",
+        "Killer Wi-Fi 6E"
+      ],
+      "availability": true,
+      "rating": 4.8
+    },
+    {
+      "product_id": 3,
+      "product_title": "Apple Watch Series 9",
+      "product_image": "https://i.ibb.co.com/c1TZmqD/aWatch.jpg",
+      "category": "smartwatches",
+      "price": 399,
+      "description": "Your ultimate fitness companion.",
+      "specification": [
+        "Always-On Retina display",
+        "S9 chip",
+        "Advanced heart rate sensor",
+        "Crash Detection"
+      ],
+      "availability": true,
+      "rating": 4.5
+    },
+    {
+      "product_id": 4,
+      "product_title": "Samsung Galaxy Watch 6 Classic",
+      "product_image": "https://i.ibb.co.com/n0r1LP5/sWatch.jpg",
+      "category": "smartwatches",
+      "price": 399,
+      "description": "A classic design with modern features.",
+      "specification": [
+        "1.2-inch or 1.4-inch AMOLED display",
+        "Exynos W930 processor",
+        "Blood pressure monitoring",
+        "Long-lasting battery"
+      ],
+      "availability": true,
+      "rating": 4.6
+    },
+    {
+      "product_id": 5,
+      "product_title": "iPhone 15 Pro Max",
+      "product_image": "https://i.ibb.co.com/d2KmhqG/15pro.jpg",
+      "category": "iphone",
+      "price": 1299,
+      "description": "The ultimate iPhone experience.",
+      "specification": [
+        "6.7-inch Super Retina XDR display",
+        "A17 Bionic chip",
+        "48MP Main camera",
+        "ProRes video recording"
+      ],
+      "availability": true,
+      "rating": 4.8
+    },
+    {
+      "product_id": 6,
+      "product_title": "Samsung Galaxy S24 Ultra",
+      "product_image": "https://i.ibb.co.com/xJ6gZmZ/s24.jpg",
+      "category": "phones",
+      "price": 1199,
+      "description": "The most powerful Galaxy ever.",
+      "specification": [
+        "6.8-inch Dynamic AMOLED 2X display",
+        "Snapdragon 8 Gen 3",
+        "200MP Main camera",
+        "100X Space Zoom"
+      ],
+      "availability": true,
+      "rating": 4.7
+    },
+    {
+      "product_id": 7,
+      "product_title": "Google Pixel 8 Pro",
+      "product_image": "https://i.ibb.co.com/Wf6dkHM/p8.jpg",
+      "category": "phones",
+      "price": 999,
+      "description": "The future of photography.",
+      "specification": [
+        "6.7-inch Smooth Display",
+        "Tensor G2 chip",
+        "48MP Main camera",
+        "Magic Eraser"
+      ],
+      "availability": true,
+      "rating": 4.6
+    },
+    {
+      "product_id": 8,
+      "product_title": "OnePlus 12",
+      "product_image": "https://i.ibb.co.com/wLmjdsL/o12.jpg",
+      "category": "phones",
+      "price": 899,
+      "description": "Flagship performance at an affordable price.",
+      "specification": [
+        "6.7-inch Fluid AMOLED display",
+        "Snapdragon 8 Gen 3",
+        "50MP Main camera",
+        "100W fast charging"
+      ],
+      "availability": true,
+      "rating": 4.4
+    },
+    {
+      "product_id": 9,
+      "product_title": "Lenovo ThinkPad X1 Carbon",
+      "product_image": "https://i.ibb.co.com/Tm99qkR/LX1.jpg",
+      "category": "laptop",
+      "price": 1899,
+      "description": "The ultimate business laptop.",
+      "specification": [
+        "14-inch OLED display",
+        "13th Gen Intel Core processor",
+        "Up to 32GB LPDDR5 RAM",
+        "All-day battery life"
+      ],
+      "availability": true,
+      "rating": 4.7
+    },
+    {
+      "product_id": 10,
+      "product_title": "Microsoft Surface Laptop 5",
+      "product_image": "https://i.ibb.co.com/vzHW7jN/m5.jpg",
+      "category": "laptop",
+      "price": 1099,
+      "description": "Sleek, stylish, and powerful.",
+      "specification": [
+        "13.5-inch PixelSense display",
+        "12th Gen Intel Core processor",
+        "Up to 32GB LPDDR5 RAM",
+        "Dolby Atmos sound"
+      ],
+      "availability": true,
+      "rating": 4.6
+    },
+    {
+      "product_id": 11,
+      "product_title": "Xiaomi Watch S2 Pro",
+      "product_image": "https://i.ibb.co.com/bR6mJ7r/miWatch.jpg",
+      "category": "smartwatches",
+      "price": 349,
+      "description": "A premium smartwatch at an affordable price.",
+      "specification": [
+        "1.32-inch AMOLED display",
+        "Snapdragon Wear 4100 Plus",
+        "Blood oxygen monitoring",
+        "Long battery life"
+      ],
+      "availability": true,
+      "rating": 4.4
+    },
+    {
+      "product_id": 12,
+      "product_title": "Fitbit Versa 4",
+      "product_image": "https://i.ibb.co.com/9Tzg7yn/last.jpg",
+      "category": "smartwatches",
+      "price": 229,
+      "description": "Your everyday health and fitness companion.",
+      "specification": [
+        "1.72-inch AMOLED display",
+        "Built-in GPS",
+        "Heart rate tracking",
+        "Sleep tracking"
+      ],
+      "availability": true,
+      "rating": 4.3
+    }
+  ]
