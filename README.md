@@ -12,9 +12,9 @@ Requirement Document Link: [https://drive.google.com/file/d/11x6-Zh_u4lvrW6x6_08
 5. Event Handle
 
 
-##I you have used for handling and managing data local storage
+## I  have used for handling and managing data  : local storage
 
-#5 Features of the Website/Project:
+# 5 Features of the Website/Project:
 
 [Feature 1]: this is single page application
 [Feature 2]: you can search products category wise
