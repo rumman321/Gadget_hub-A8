@@ -1,0 +1,58 @@
+[
+    {
+      "product_title": "MacBook Pro 14",
+      "product_image": "https://i.ibb.co.com/QdhhwfZ/mac14.jpg",
+      "customer_review": "This phone is amazing! The camera is incredible and the performance is blazing fast.",
+      "rating": 4.8
+    },
+    {
+      "product_title": "Dell XPS 13",
+      "product_image": "https://i.ibb.co.com/C2xgznd/dell13.jpg",
+      "customer_review": "The 200MP camera is mind-blowing. The battery life is also impressive.",
+      "rating": 4.7
+    },
+    {
+      "product_title": "Apple Watch Series 9",
+      "product_image": "https://i.ibb.co.com/c1TZmqD/aWatch.jpg",
+      "customer_review": "A powerful machine for professionals. The display is stunning and the performance is top-notch.",
+      "rating": 4.9
+    },
+    {
+      "product_title": "Samsung Galaxy Watch 6 Classic",
+      "product_image": "https://i.ibb.co.com/n0r1LP5/sWatch.jpg",
+      "customer_review": "Next-gen gaming at its finest. The graphics and performance are incredible.",
+      "rating": 4.6
+    },
+    {
+      "product_title": "Apple Watch Series 9",
+      "product_image": "https://example.com/applewatch9.jpg",
+      "customer_review": "A great fitness companion. The battery life is excellent and the features are very useful.",
+      "rating": 4.5
+    },
+    {
+      "product_title": "iPhone 15 Pro Max",
+      "product_image": "https://i.ibb.co.com/d2KmhqG/15pro.jpg",
+      "customer_review": "A fun and portable gaming console. Great for playing games with friends and family.",
+      "rating": 4.7
+    },
+    {
+      "product_title": "Samsung Galaxy S24 Ultra",
+      "product_image": "https://i.ibb.co.com/xJ6gZmZ/s24.jpg",
+      "customer_review": "The camera is incredible, especially in low light. The software is also very smooth and user-friendly.",
+      "rating": 4.6
+    },
+    {
+      "product_title": "Google Pixel 8 Pro",
+      "product_image": "https://i.ibb.co.com/Wf6dkHM/p8.jpg",
+      "customer_review": "A beautiful and powerful laptop. The display is stunning and the performance is excellent.",
+      "rating": 4.8
+    },
+    {
+      "product_title": "Microsoft Surface Laptop 5",
+      "product_image": "https://i.ibb.co.com/vzHW7jN/m5.jpg",
+      "customer_review": "A great e-reader for taking notes and reading books. The pen is very precise and the battery life is excellent.",
+      "rating": 4.4
+    }
+    
+    
+  ]

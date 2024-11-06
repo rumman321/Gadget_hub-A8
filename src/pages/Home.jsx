@@ -5,11 +5,13 @@ import Header from '../components/Header';
 import Categories from '../components/Categories';
 import ProductCard from '../components/ProductCard';
 
+
 const Home = () => {
     const categories=useLoaderData()
     
     return (
         <div className='w-11/12 mx-auto'>
+            
             <BannerImg></BannerImg>
             
             <h2 className='text-center font-bold text-black text-4xl'>Explore Cutting-Edge Gadgets</h2>

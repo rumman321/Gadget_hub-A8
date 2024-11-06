@@ -15,6 +15,7 @@
       "availability": true,
       "rating": 4.9
     },
+    
     {
       "product_id": 2,
       "product_title": "Dell XPS 13",
@@ -190,5 +191,84 @@
       ],
       "availability": true,
       "rating": 4.3
+    },{
+      "product_id": 13,
+      "product_title": "MacBook Pro 13",
+      "product_image": "https://i.ibb.co.com/TY7FSRp/m3.jpg",
+      "category": "macbook",
+      "price": 1999,
+      "description": "Powerful performance for professionals.",
+      "specification": [
+        "14-inch Liquid Retina XDR display",
+        "M2 Pro chip",
+        "16-core GPU",
+        "Up to 32GB unified memory"
+      ],
+      "availability": true,
+      "rating": 4.9
+    },
+    {
+      "product_id": 14,
+      "product_title": "MacBook Air M1",
+      "product_image": "https://i.ibb.co.com/WxDk1tg/m1.jpg",
+      "category": "macbook",
+      "price": 1999,
+      "description": "Powerful performance for professionals.",
+      "specification": [
+        "14-inch Liquid Retina XDR display",
+        "M2 Pro chip",
+        "16-core GPU",
+        "Up to 32GB unified memory"
+      ],
+      "availability": true,
+      "rating": 4.9
+    },
+    {
+      "product_id": 15,
+      "product_title": "MacBook Air",
+      "product_image": "https://i.ibb.co.com/kc8KxY0/mac.jpg",
+      "category": "macbook",
+      "price": 1999,
+      "description": "Powerful performance for professionals.",
+      "specification": [
+        "14-inch Liquid Retina XDR display",
+        "M2 Pro chip",
+        "16-core GPU",
+        "Up to 32GB unified memory"
+      ],
+      "availability": true,
+      "rating": 4.9
+    },
+    {
+      "product_id": 16,
+      "product_title": "MacBook Air m2",
+      "product_image": "https://i.ibb.co.com/WD5tJP5/m2.jpg",
+      "category": "macbook",
+      "price": 1999,
+      "description": "Powerful performance for professionals.",
+      "specification": [
+        "14-inch Liquid Retina XDR display",
+        "M2 Pro chip",
+        "16-core GPU",
+        "Up to 32GB unified memory"
+      ],
+      "availability": true,
+      "rating": 4.9
+    },
+    {
+      "product_id": 17,
+      "product_title": "MacBook Air M3",
+      "product_image": "https://i.ibb.co.com/WyhKWNM/mac3.jpg",
+      "category": "macbook",
+      "price": 1999,
+      "description": "Powerful performance for professionals.",
+      "specification": [
+        "14-inch Liquid Retina XDR display",
+        "M2 Pro chip",
+        "16-core GPU",
+        "Up to 32GB unified memory"
+      ],
+      "availability": true,
+      "rating": 4.9
     }
   ]

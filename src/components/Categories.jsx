@@ -4,7 +4,7 @@ import { NavLink } from "react-router-dom";
 const Categories = ({ categories }) => {
   return (
     
-      <div className="gap-10 flex  flex-grow ">
+      <div className="gap-10 flex  flex-grow  ">
        <button className="">
        {categories.map((category) => (
           <NavLink
@@ -12,7 +12,7 @@ const Categories = ({ categories }) => {
             
             key={category.category}
             
-            className={({ isActive }) => `mb-10 btn flex-col flex bg-blue-400 font-thin ${ isActive ? "tab-active text-2xl font-bold" : ""}`
+            className={({ isActive }) => `mb-10 btn flex-col flex  font-bold ${ isActive ? "tab-active bg-blue-600 text-white text-2xl font-bold" : ""}`
             
             }
           >

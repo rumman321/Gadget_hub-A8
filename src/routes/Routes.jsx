@@ -1,5 +1,6 @@
 import {
     createBrowserRouter,
+    json,
     RouterProvider,
   } from "react-router-dom";
 import MainLayouts from "../layouts/MainLayouts";
@@ -9,6 +10,7 @@ import Statistics from "../pages/Statistics";
 import Revieww from "../pages/Revieww";
 import ProductCard from "../components/ProductCard";
 import Categories from "../components/Categories";
+import ProductDetails from "../pages/ProductDetails";
 
   const router = createBrowserRouter([
     {
@@ -43,7 +45,13 @@ import Categories from "../components/Categories";
         },
         {
             path:'/review',
-            element:<Revieww></Revieww>
+            element:<Revieww></Revieww>,
+            loader:()=>fetch('../review.json')
+        },
+        {
+            path:'/product/:id',
+            element:<ProductDetails></ProductDetails>,
+            loader:()=>fetch('../products.json'),
         }
       ]
     },

@@ -1,18 +1,35 @@
 import React, { useEffect, useState } from 'react';
 import Card from './Card';
-import { Link } from 'react-router-dom';
+import { Link, useParams } from 'react-router-dom';
+
 
 
 const ProductCard = () => {
+    const {category}=useParams()
+    
     const [products,setProducts]=useState([])
     useEffect(()=>{
         fetch('/products.json')
         .then(res =>res.json())
-        .then(data=>setProducts(data))
+        .then(data=>{
+            if(category){
+                const filterCategory=data.filter(
+                    product=>product.category==category
+                )
+                setProducts(filterCategory)
+            }else{
+                setProducts(data)
+            }
+        })
 
-    },[])
+    },[category])
     
-    
+    // useEffect(()=>{
+    //     const filterCategory=[...products].filter(
+    //         product=>product.category==category
+    //     )
+    //     setProducts(filterCategory)
+    // },[category,products])
 
     return (
         <div className='grid grid-cols-3 gap-8'>
